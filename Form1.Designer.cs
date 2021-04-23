@@ -59,7 +59,7 @@ namespace VariablesPractice
             // areaButton
             // 
             this.areaButton.Font = new System.Drawing.Font("Comic Sans MS", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.areaButton.Location = new System.Drawing.Point(30, 119);
+            this.areaButton.Location = new System.Drawing.Point(30, 131);
             this.areaButton.Name = "areaButton";
             this.areaButton.Size = new System.Drawing.Size(124, 58);
             this.areaButton.TabIndex = 2;
@@ -70,7 +70,7 @@ namespace VariablesPractice
             // carpetButton
             // 
             this.carpetButton.Font = new System.Drawing.Font("Comic Sans MS", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.carpetButton.Location = new System.Drawing.Point(30, 225);
+            this.carpetButton.Location = new System.Drawing.Point(30, 232);
             this.carpetButton.Name = "carpetButton";
             this.carpetButton.Size = new System.Drawing.Size(124, 58);
             this.carpetButton.TabIndex = 3;
